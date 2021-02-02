@@ -7,11 +7,17 @@
 
 >pkg update && pkg upgrade
 
+>pkg install python
+
+>pkg install python2
+
 >pkg install git
 
->git clone https://github.com/RazorKenway/GalleryHack.git
+>git clone https://github.com/RazorKenway/SL-Android-Games.git
 
->cd 
+>cd SL-Android-Games
+
+chmod +x brain.py
 
 >python games.py
 
