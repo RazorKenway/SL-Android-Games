@@ -17,7 +17,7 @@
 
 >cd SL-Android-Games
 
-chmod +x brain.py
+>chmod +x brain.py
 
 >python games.py
 
